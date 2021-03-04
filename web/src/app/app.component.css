@@ -1,0 +1,32 @@
+.container {
+  height: 100%;
+}
+
+.mat-drawer-side, .mat-drawer-content{
+  padding: 10px 20px;
+}
+
+.mat-chip-input {
+  flex: 0;
+}
+
+.btn-azul-claro{
+  background-color: #91a5dc;
+}
+
+
+.d-flex{
+  display: flex;
+}
+
+.col{
+  flex: 1 0 auto;
+}
+
+.mr-2{
+  margin-right: 10px;
+}
+
+.w-100{
+  width: 100%;
+}
